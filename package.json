@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-starter-hello-world",
+  "description": "Gatsby hello world starter",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "antd": "^3.6.4",
+    "babel-plugin-import": "^1.8.0",
+    "gatsby": "next",
+    "gatsby-plugin-less": "^1.1.8",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
