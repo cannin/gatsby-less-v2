@@ -6,6 +6,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-less`,
       options: {
+        javascriptEnabled: true,
         modifyVars: {
           'primary-color': '#BADA55'
         }
